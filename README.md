@@ -1,6 +1,6 @@
 # HI, MY NAME IS MILU. 👋
 
-I’m a software engineer living in Dayton, Ohio. My expertise is in building web-based applications and data representations with JavaScript. In addition to my day job, I am the co-founder of [Imagine.Dat](http://www.imagine-dat.com), a Data Visualization Dayton meetup.
+I’m a software engineer living in Dayton, Ohio. My expertise is in building mobile and web-based applications and data representations with TypeScript and JavaScript. In addition to my day job, I am the co-founder of [Imagine.Dat](https://github.com/imagine-dat), a Data Visualization Dayton meetup.
 
 ### BLOG & WRITING 
 
